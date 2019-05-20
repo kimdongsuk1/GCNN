@@ -5,5 +5,5 @@ Realizing of J. Masci, D. Boscaini, M. M. Bronstein, P. Vandergheynst, Geodesic 
 
 when I can construct several filters, I revise this code.  
 
-https://www.inf.usi.ch/phd/boscaini/sections/tutorial_EG16.html(Tutorial for Geodesic CNN)
+https://www.inf.usi.ch/phd/boscaini/sections/tutorial_EG16.html (Tutorial for Geodesic CNN)
 
